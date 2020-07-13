@@ -70,8 +70,8 @@ namespace KeyboardEmulator
             public uint key;
         }
 
-        static string shifts = "!@#$%^&*()_+<>:~?|\"";
-        static string shiftv = "1234567890-=,.;`/\\'";
+        static string shifts = "!@#$%^&*()_+<>:~?{}|\"";
+        static string shiftv = "1234567890-=,.;`/[]\\'";
 
         public static ConvertResult ConvertCharToVirtualKey(char ch)
         {
