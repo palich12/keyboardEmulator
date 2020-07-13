@@ -1,0 +1,9 @@
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\obj\Debug\KeyboardEmulator.csprojAssemblyReference.cache
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\obj\Debug\KeyboardEmulator.csproj.CoreCompileInputs.cache
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\bin\Debug\KeyboardEmulator.exe.config
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\bin\Debug\KeyboardEmulator.exe
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\bin\Debug\KeyboardEmulator.pdb
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\obj\Debug\KeyboardEmulator.exe
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\obj\Debug\KeyboardEmulator.pdb
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\bin\Debug\keys.csv
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\bin\Debug\input.txt

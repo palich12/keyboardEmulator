@@ -1,0 +1,8 @@
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\bin\Release\input.txt
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\bin\Release\keys.csv
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\bin\Release\KeyboardEmulator.exe.config
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\bin\Release\KeyboardEmulator.exe
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\bin\Release\KeyboardEmulator.pdb
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\obj\Release\KeyboardEmulator.csproj.CoreCompileInputs.cache
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\obj\Release\KeyboardEmulator.exe
+C:\Users\i\source\repos\KeyboardEmulator\KeyboardEmulator\obj\Release\KeyboardEmulator.pdb
